@@ -4,7 +4,7 @@
 #define DELAY 10  // internal delay in ms
 int cyclesBeforePaulArrives = 8; // (420 seconds with 80ms rainbowSpeed)
 int paulStayCycles = 11;
-int paulSpeed = 5; //(in ms)
+int paulSpeed = 30; //(in ms, the higer the number, the slower Paul moves.)
 int rainbowSpeed = 80; //(in ms, the higher the number, the slower the unicorn power. Impacts Paul's timers, FYI.)
 
 
