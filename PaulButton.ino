@@ -16,7 +16,7 @@ void setup() {
   pinMode(GREEN, OUTPUT);
   pinMode(BLUE, OUTPUT);
 
-  // Pull all HIGH (common cathode ::facepalm::)
+  // Pull all HIGH (common anode ::facepalm::)
   digitalWrite(RED, HIGH); // pull high (off)
   digitalWrite(GREEN, HIGH); // pull high (off)
   digitalWrite(BLUE, HIGH); // pull high (off)
