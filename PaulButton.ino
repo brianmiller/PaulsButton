@@ -2,7 +2,7 @@
 #define GREEN 10 // pin that green led is connected to     
 #define BLUE 9  // pin that blue led is connected to    
 #define DELAY 10  // internal delay in ms
-int cyclesBeforePaulArrives = 8; // (420 seconds)
+int cyclesBeforePaulArrives = 8; // (420 seconds with 80ms rainbowSpeed)
 int paulStayCycles = 11;
 int paulSpeed = 5; //(in ms)
 int rainbowSpeed = 80; //(in ms, the higher the number, the slower the unicorn power. Impacts Paul's timers, FYI.)
