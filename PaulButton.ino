@@ -5,7 +5,7 @@
 int cyclesBeforePaulArrives = 8; // (420 seconds)
 int paulStayCycles = 11;
 int paulSpeed = 5; //(in ms)
-int rainbowSpeed = 80; //(in ms, the higher the number, the slower the unicorn power. 80 = 1 minute for a complete cycle)
+int rainbowSpeed = 80; //(in ms, the higher the number, the slower the unicorn power. Impacts Paul's timers, FYI.)
 
 
 void setup() { 
