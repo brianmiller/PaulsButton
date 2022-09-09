@@ -2,7 +2,7 @@
 
 `An Illustration of the Hardware`
 
-![image](https://user-images.githubusercontent.com/342276/189447642-c65bf25b-1e07-4dcb-8b8f-0b52212cf5d2.png =x250)
+<img src="https://user-images.githubusercontent.com/342276/189447642-c65bf25b-1e07-4dcb-8b8f-0b52212cf5d2.png" width="25%">
 
 
 `The Circuit`
