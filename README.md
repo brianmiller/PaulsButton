@@ -1,4 +1,4 @@
-##### A freshly remodeled garage needs a fresh garage door button.  #####
+##### A freshly remodeled garage needs a fresh garage door button. The semi-opaque Arcade style button cycles through the colors of the rainbow and pulses bright Green for a few minutes every 420 seconds. The text you see below will be displayed in the serial monitor until the end of time.  #####
 ##### Lines 27-57 are Paul's original code from his Christmas Tree project.  #####
 
 
