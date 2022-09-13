@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/342276/190022323-faad0e43-9cd3-4322-934b-66838143fbfa.png" width="35%">
 <img src="https://user-images.githubusercontent.com/342276/190022258-73118aba-fc4c-4d55-85a8-d18a317c86aa.png" width="35%">
 
-`What goes behind the button`
+`What goes behind the button, an ATmega32U4 on a tiny board.`
 
 <img src="https://user-images.githubusercontent.com/342276/189448641-bc6bc39b-f201-4d4a-83a0-525f76c74f2b.png" width="35%">
 
