@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/342276/190022672-8aa83120-0ccf-4de1-95f3-c64ea7b1160d.png" width="35%">
 
-`Common andode RGB LED wired up`
+`Common anode RGB LED wired up`
 
 <img src="https://user-images.githubusercontent.com/342276/190022367-ff9ecd31-3018-4f75-98b8-92c165a8fa3d.png" width="35%">
 <img src="https://user-images.githubusercontent.com/342276/190022323-faad0e43-9cd3-4322-934b-66838143fbfa.png" width="35%">
