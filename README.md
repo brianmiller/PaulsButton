@@ -1,3 +1,5 @@
+#### A freshly remodeled garage needs a fresh garage door button.  Lines 27-57 are Paul's original code from his Christmas Tree project.  ####
+
 
 [You can view a simulation here](https://wokwi.com/projects/342284131374203474)
 
